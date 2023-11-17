@@ -4,7 +4,8 @@
 For programming and building the game. We use C# for all the game code.
 
 - XNA
-The engine for rendering and input
+The engine for rendering and input.
+
 - FNA & MonoGame
 FNA and MonoGame are ports of XNA, and we use them to build the game cross-platform (Mac/Linux/Consoles). We could cut out XNA entirely and just use FNA for PC versions, but haven’t felt the need to yet.
 
