@@ -18,16 +18,16 @@ This is a simple C# framework we use on top of XNA that uses a Scene->Entity->Co
 
 ## Undertale
 
-- GameMaker
+- GameMaker.
 
 ## Loop Hero
 
-- GameMaker
+- GameMaker.
 
 ## Hades
 
-- XNA
+- XNA.
 
 ## Terraria
 
-- XNA
+- XNA.
